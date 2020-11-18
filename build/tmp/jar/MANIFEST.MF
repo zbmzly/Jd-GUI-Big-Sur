@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: org.jd.gui.App
+SplashScreen-Image: org/jd/gui/images/jd_icon_128.png
+JD-GUI-Version: 1.6.6
+JD-Core-Version: 1.1.3
+

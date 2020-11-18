@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>/Users/liyizhao/jd-gui/build/libs/jd-gui-1.6.6-min.jar</jar>
+  <outfile>jd-gui.exe</outfile>
+  <errTitle>JD-GUI Windows Wrapper</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>../../src/launch4j/resources/images/jd-gui.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.6.6.0</fileVersion>
+    <txtFileVersion>1.6.6</txtFileVersion>
+    <fileDescription>JD-GUI</fileDescription>
+    <copyright>JD-GUI (C) 2008-2019 Emmanuel Dupuy</copyright>
+    <productVersion>1.6.6.0</productVersion>
+    <txtProductVersion>1.6.6</txtProductVersion>
+    <productName>JD-GUI</productName>
+    <companyName></companyName>
+    <internalName>jd-gui</internalName>
+    <originalFilename>jd-gui.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
