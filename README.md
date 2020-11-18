@@ -1,3 +1,5 @@
+This project address the issue when JD-GUI won't open in Mac OS Big Sur. Try compile it in Intellij Idea and run the 'jar' gradle script
+
 # JD-GUI
 
 JD-GUI, a standalone graphical utility that displays Java sources from CLASS files.
